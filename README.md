@@ -2,6 +2,7 @@
 # Seção: Classes e Métodos
 # Professor Macoratti (Udemy).
 
+
 - Classe e Objeto
 - Alocação de memória
 - Métodos
